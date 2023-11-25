@@ -289,7 +289,7 @@ SodaRemix2021,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/16223
 网络热门歌曲点击切换,https://api.vvhan.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C
 
 
-💞欧美电台_1116,#genre#
+💞欧美电台,#genre#
 K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
